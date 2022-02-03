@@ -1,0 +1,15 @@
+{
+    "name": "bolgatty.gokul",
+    "description": "CannaPOC",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Bolgatty",
+    "hooks": {
+        "bolgatty": {
+            "apparmor": "bolgatty.apparmor",
+            "desktop":  "bolgatty.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "gokul <email@domain.org>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
