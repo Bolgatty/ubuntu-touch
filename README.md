@@ -1,6 +1,6 @@
 # Bolgatty
 
-CannaPOC
+Proof of concept app for Ubuntu Touch (Used QML + clickable)
 
 ## License
 
