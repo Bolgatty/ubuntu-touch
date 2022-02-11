@@ -1,0 +1,15 @@
+{
+    "name": "helloworldcppqml.gokul",
+    "description": "Hello World Example App in C++ and QML",
+    "architecture": "@CLICK_ARCH@",
+    "title": "BolgattyHelloWorldCppQML",
+    "hooks": {
+        "helloworldcppqml": {
+            "apparmor": "helloworldcppqml.apparmor",
+            "desktop":  "helloworldcppqml.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Gokul Kartha <gokul.kartha@bolgatty.nl>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
